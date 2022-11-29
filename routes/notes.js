@@ -21,5 +21,5 @@ notes.post('/notes', (req, res) => {
     }
   });
 
-
+//Exports the data/notes to specific path
 module.exports = notes;
