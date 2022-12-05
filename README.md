@@ -21,6 +21,8 @@ In completing this project, I have learned the basic concepts of Express.js. I h
 
 ![NoteTakerScreenshot](public/assets/img/notetakerScreenshot.png)
 
+* DEPLOYED THROUGH HEROKU https://git.heroku.com/enigmatic-meadow-33307.git
+
 ## Video Demonstration
 
 [NoteTakerAppDemo](public/assets/img/NoteTaker.gif)
