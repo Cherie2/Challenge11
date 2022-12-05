@@ -25,7 +25,7 @@ In completing this project, I have learned the basic concepts of Express.js. I h
 
 ## Video Demonstration
 
-[NoteTakerAppDemo](public/assets/img/NoteTaker.gif)
+![NoteTakerAppDemo](public/assets/img/NoteTaker.gif)
 
 ## Tools Utilized
 
