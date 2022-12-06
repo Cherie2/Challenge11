@@ -15,7 +15,7 @@
   
 ## Motivation
 
-The motivation for this project is to provide users with a convenient and efficient way to record tasks/notes for later refernce. Being provided the front-end code for this project, my main objective is to write the backend and creating a connection between them.
+The motivation for this project is to provide users with a convenient and efficient way to record tasks/notes for later refernce. Being provided the front-end code for this project, my main objective is to write the backend and create a connection between the front and backend.
 
 In completing this project, I have learned the basic concepts of Express.js. I have also learned the benefits of utilizing modular routes to maintain cleaner code. 
 
@@ -45,7 +45,7 @@ This application requires no installations to use. Acces to web browseer is all 
 
 ## Usage
 
-User will open apllication on web and be prompted to write a title of task under note title section and then a brief description under note text section. When finished writing the note, user can then save the note and refernce it later on the left side of website. When the note is no longer needed, user can then delete it from the list.
+User will open application on web and be prompted to write a title of their task under note title section and then a brief description of the task under note text section. When finished writing the note, user can then save the note and reference it later on the left side of the website. When the note is no longer needed, user can then delete it from the list.
 
 ## License
     
